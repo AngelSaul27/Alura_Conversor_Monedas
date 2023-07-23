@@ -13,13 +13,13 @@ Aquí tienes algunas capturas de pantalla de la aplicación en funcionamiento:
 
 ## Agregue su API KEY de Open Exchange Rates
 
-Antes de utilizar la aplicación, asegúrate de agregar tu **API KEY** de **[Open Exchange Rates](https://openexchangerates.org/account)** en el archivo correspondiente para obtener conversiones más precisas.
+Antes de utilizar la aplicación, asegúrate de agregar tu **API KEY** de **[Open Exchange Rates](https://openexchangerates.org/account)** en el menu correspondiente para obtener conversiones más precisas.
 
 Sigue los siguientes pasos para configurar tu API KEY:
 
 1. Obtén tu API KEY registrándote en **[Open Exchange Rates](https://openexchangerates.org/account)** si aún no lo has hecho.
 
-2. Agrega tu API KEY en el archivo de configuración de la aplicación.
+2. Agrega tu API KEY en el primer icono de "pila" de la aplicación.
 
 ![Configuración de la API KEY](https://i.ibb.co/60xJkNJ/Conversor-5.png)
 
