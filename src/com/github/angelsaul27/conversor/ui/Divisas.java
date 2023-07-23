@@ -25,7 +25,7 @@ public class Divisas extends JPanel {
     private final JComboBox<String> divisa_contraria = new JComboBox<String>();
     private final JButton convertir = new JButton("Convertir");
     private final JButton intercambiar = new JButton();
-    private final JLabel resultado = new JLabel("A:");
+    private final JLabel resultado = new JLabel("Esperando..");
 
     public Divisas() {
         setBackground(Color.decode("#F9F9F9"));
@@ -45,7 +45,7 @@ public class Divisas extends JPanel {
     private void setUixForm() {
         final JLabel lbAmount = new JLabel("Importe");
         final JLabel lbCoinSelect = new JLabel("De: ");
-        final JLabel lbCoinConvert = new JLabel();
+        final JLabel lbCoinConvert = new JLabel("A: ");
 
         lbAmount.setBounds(45, 20, 100, 30);
         lbCoinSelect.setBounds(195, 20, 100, 30);
