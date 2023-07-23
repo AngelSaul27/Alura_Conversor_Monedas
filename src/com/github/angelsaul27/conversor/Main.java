@@ -17,7 +17,7 @@ public class Main extends JFrame {
 
 	private final JPanel contentPanels = new JPanel(); // CONTENDOR DE PANELS
 	private final JPanel contentParent = new JPanel(); // CONTENDOR CENTRAL
-	private final Image icono = getIcon("./resources/favicon.png");
+	private final Image icono = getIcon("favicon.png");
 	
 	public Main() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

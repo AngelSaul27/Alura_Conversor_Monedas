@@ -56,7 +56,7 @@ public class Divisas extends JPanel {
         divisa_contraria.setBounds(415, 50, 140, 30);
         resultado.setBounds(45, 90, 150, 30);
         
-        Image imagen = new ImageIcon(getClass().getResource("../resources/swap.png")).getImage();
+        Image imagen = new ImageIcon(getClass().getResource("swap.png")).getImage();
         Image scaled = imagen.getScaledInstance(17, 17, Image.SCALE_SMOOTH);
 
         intercambiar.setBounds(350, 50, 50, 30);

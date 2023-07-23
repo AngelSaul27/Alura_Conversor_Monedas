@@ -28,9 +28,9 @@ public class BarraMenu extends JPanel {
         JButton bOption = new JButton();
         JButton bClose = new JButton();
 
-        ImageIcon iconApi = getIcon("../resources/stack.png");
-        ImageIcon iconOption = getIcon("../resources/gear.png");
-        ImageIcon iconClose = getIcon("../resources/cross.png");
+        ImageIcon iconApi = getIcon("stack.png");
+        ImageIcon iconOption = getIcon("gear.png");
+        ImageIcon iconClose = getIcon("cross.png");
 
         setDefaultOptions(bAPI, iconApi, apiListener);
         setDefaultOptions(bOption, iconOption, optionsListener);
