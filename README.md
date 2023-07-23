@@ -1,4 +1,5 @@
 # Alura Conversor Monedas
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 En esta aplicación podrás realizar conversiones con múltiples monedas, las cuales están fijadas en función del precio del Dólar. Ten en cuenta que su precisión no es alta, por lo que se recomienda contar con una API KEY para obtener resultados más precisos.
 
